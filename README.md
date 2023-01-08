@@ -1,5 +1,5 @@
 # 👋 Hey there! I’m @almer18
-- 👀 I’m interested in Data Analytics, Sofftware development and AI.
+- 👀 I’m interested in Data Analytics, Software development and AI.
 - 📍 Edmonton, Alberta, Canada
 - 📫 You can reach me at: almermuneer70@gmail.com
 - 🌐 View my portfolio at: https://almer18.github.io
