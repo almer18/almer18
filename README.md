@@ -1,9 +1,10 @@
-# 👋 Hey there! I’m @almer18
-- 👀 I’m interested in Data Analytics, Software development and AI.
-- 📍 Edmonton, Alberta, Canada
-- 📫 You can reach me at: almermuneer70@gmail.com
-- 🌐 View my portfolio at: https://almer18.github.io
-- LinkedIn: https://www.linkedin.com/in/almer-muneer-431850220/
+# 👋 Hey there! I’m Almer Muneer
+
+- 🎓 New grad looking for **Software Developer (Backend, Cloud) and Data Analyst** roles  
+- 📫 Email: **almermuneer70@gmail.com**  
+- 🌐 Portfolio: [almer18.github.io](https://almer18.github.io)  
+- 💼 LinkedIn: [linkedin.com/in/almer-muneer-431850220](https://www.linkedin.com/in/almer-muneer-431850220/)  
+- ⛳ Fun fact: If I’m not coding, you’ll probably find me trying to be a good golfer 
 
 
 
