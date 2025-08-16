@@ -4,7 +4,7 @@
 - 📫 Email: **almermuneer70@gmail.com**  
 - 🌐 Portfolio: [almer18.github.io](https://almer18.github.io)  
 - 💼 LinkedIn: [linkedin.com/in/almer-muneer-431850220](https://www.linkedin.com/in/almer-muneer-431850220/)  
-- ⛳ Fun fact: If I’m not coding, you’ll probably find me trying to be a good golfer 
+- ⛳ Fun fact: If I’m not coding, you’ll probably find me in a golf course trying to be a good golfer 
 
 
 
